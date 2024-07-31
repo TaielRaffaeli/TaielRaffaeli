@@ -61,8 +61,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/TaielRaffaeli/TaielRaffaeli/output/snake.svg" alt="Snake animation" />
-
-###
